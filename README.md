@@ -1,1 +1,2 @@
 # Analysis_of_Nobel_Prize_Data
+This repository contains the a ipynb file which is a notebook for the project on the analysis of Nobel Prize Data. In this project I have tried to get some useful insights from the Nobel Prize Dataset which has information about the Nobel Laureates from 1901 to 2020. In this project I have used Python libraries like Pandas, NumPy, Matplotlib and Seaborn to carry out all the analysis and visualization of the data which was a CSV file downloaded from Kaggle (https://www.kaggle.com/datasets/imdevskp/nobel-prize?resource=download).
